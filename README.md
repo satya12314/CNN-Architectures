@@ -7,6 +7,7 @@ Convolutional Neural Network : A   Convolutional Neural  Network (ConvNet/CNN) i
        
 There are various architectures of CNNs available which have been key in building algorithms which power and shall power AI as a whole in the foreseeable future.
 Some of them have been listed below:
+
     1. LeNet
     2. AlexNet
     3. VGG16/VGG19
@@ -15,5 +16,6 @@ Some of them have been listed below:
     6. EfficientNet
     
 For Object Detection ,we have implemented 
-  1.> Faster RCNN Algo
-  2.> Yolo Algorithm
+
+     1.> Faster RCNN Algo
+     2.> Yolo Algorithm
