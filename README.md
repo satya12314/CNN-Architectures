@@ -1,4 +1,4 @@
-# CNN Architectures
+ # Study of different CNN Architectures
 
 Convolutional Neural Network : A   Convolutional Neural  Network (ConvNet/CNN) is a Deep Learning algorithm which can take in an input image, 
        assign importance (learnable weights and biases) to various aspects/objects in the image and be able to differentiate one from the other. A ConvNet is 
@@ -6,7 +6,7 @@ Convolutional Neural Network : A   Convolutional Neural  Network (ConvNet/CNN) i
        to reduce the images into a form which is easier to process, without losing features which are critical for getting a  good prediction.
        
 There are various architectures of CNNs available which have been key in building algorithms which power and shall power AI as a whole in the foreseeable future.
-Some of them have been listed below:
+Some of the CNN Architecture which i have implemented in this Project are:
 
     1. LeNet
     2. AlexNet
@@ -15,7 +15,21 @@ Some of them have been listed below:
     5. Inception Network
     6. EfficientNet
     
-For Object Detection ,we have implemented 
+For Object Detection ,I have implemented 
 
      1.> Faster RCNN Algo
      2.> Yolo Algorithm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
