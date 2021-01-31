@@ -57,6 +57,9 @@ The base model of EfficientNet family, EfficientNet-B0.The EfficientNet-B0 archi
 I have implemented this CNN architecture on SIIM-ISIC Melanoma Classification.I am predicting a binary target for each image. Your model should predict the probability (floating point) between 0.0 and 1.0 that the lesion in the image is malignant (the target). 
 
 
+![oie_JiStYAeu4q31](https://user-images.githubusercontent.com/62735655/106376951-8834d800-63bf-11eb-9370-73bcd99af3ea.png)
+
+
 
 
 
