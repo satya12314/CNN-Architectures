@@ -61,7 +61,7 @@ I have implemented this CNN architecture on SIIM-ISIC Melanoma Classification.I 
 Object Detection :
 
 # Faster RCNN : 
-         The most widely used state of the art version of the R-CNN family — Faster R-CNN was first published in 2015. This article, the third and final one of a          series to understand the fundamentals of current day object detection elaborates the technical details of the Faster R-CNN detection pipeline.
+   The most widely used state of the art version of the R-CNN family — Faster R-CNN was first published in 2015. This article, the third and final one of a          series to understand the fundamentals of current day object detection elaborates the technical details of the Faster R-CNN detection pipeline.
          
 In the R-CNN family of papers, the evolution between versions was usually in terms of computational efficiency ,reduction in test time, and improvement in performance (mAP).These networks usually consist of — a) A region proposal algorithm to generate “bounding boxes” or locations of possible objects in the image; b) A feature generation stage to obtain features of these objects, usually using a CNN; c) A classification layer to predict which class this object belongs to; and d) A regression layer to make the coordinates of the object bounding box more precise.
 
