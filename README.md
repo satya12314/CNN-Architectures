@@ -1,10 +1,6 @@
  # Study of different CNN Architectures
-
-Convolutional Neural Network : A   Convolutional Neural  Network (ConvNet/CNN) is a Deep Learning algorithm which can take in an input image, 
-       assign importance (learnable weights and biases) to various aspects/objects in the image and be able to differentiate one from the other. A ConvNet is 
-       able to successfully capture the Spatial and   Temporal dependencies in an image through the application of relevant filters. The role of the ConvNet is 
-       to reduce the images into a form which is easier to process, without losing features which are critical for getting a  good prediction.
-       
+ 
+ I have implemented various CNN Architecture on Image Classification datasets and also implemented YOLO Algorithm and Faster RCNN  for object detetion problem.
 There are various architectures of CNNs available which have been key in building algorithms which power and shall power AI as a whole in the foreseeable future.
 Some of the CNN Architecture which i have implemented in this Project are:
 
@@ -59,6 +55,24 @@ I have implemented this CNN architecture on SIIM-ISIC Melanoma Classification.I 
 
 ![oie_JiStYAeu4q31](https://user-images.githubusercontent.com/62735655/106376951-8834d800-63bf-11eb-9370-73bcd99af3ea.png)
 
+
+
+Object Detection :
+# Faster RCNN : 
+         The most widely used state of the art version of the R-CNN family — Faster R-CNN was first published in 2015. This article, the third and final one of a          series to understand the fundamentals of current day object detection elaborates the technical details of the Faster R-CNN detection pipeline.
+         
+In the R-CNN family of papers, the evolution between versions was usually in terms of computational efficiency ,reduction in test time, and improvement in performance (mAP).These networks usually consist of — a) A region proposal algorithm to generate “bounding boxes” or locations of possible objects in the image; b) A feature generation stage to obtain features of these objects, usually using a CNN; c) A classification layer to predict which class this object belongs to; and d) A regression layer to make the coordinates of the object bounding box more precise.
+
+I have implemented Faster RCNN  on Custom Dataset that i have created and submitted the code for it.
+
+# YOLO Algo :
+       YOLO (You Only Look Once) real-time object detection algorithm, which is one of the most effective object detection algorithms that also encompasses many          of the most innovative ideas coming out of the computer vision research community.
+       YOLO came on the computer vision scene with the seminal 2015 paper by Joseph Redmon et al. “You Only Look Once: Unified, Real-Time Object Detection,” and          immediately got a lot of attention by fellow computer vision researchers.
+       
+       
+       
+# Thought behind this Project :
+                       In order to get started into the field of Image Processing or to improve the prediction accuracy of the custom CNN models, the knowledge of                        some of the famous CNN architectures will keep us reach the pace in this competitive and ravenous world.in this project I will be covering                        a few famous CNN architectures. I mainly stress on how to implement them in Keras in general i.e., making custom models with the idealogy                          and structure of those architectures.
 
 
 
